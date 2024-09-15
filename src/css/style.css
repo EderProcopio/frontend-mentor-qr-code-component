@@ -1,0 +1,58 @@
+html {
+   font-family: "Outfit", system-ui;
+}
+
+
+main {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   height: 100vh;
+   background-color: var(--soft-layer);
+}
+
+.card {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   width: 320px;
+   padding: 15px;
+   border-radius: 20px;
+   background-color: #fff;
+}
+
+.qr-image {
+   width: 290px;
+   border-radius: 10px;
+   margin-bottom: 15px;
+}
+
+.card .info-container {
+   text-align: center;
+   width: 265px;
+   margin-bottom: 20px;
+}
+
+.card .info-container h2 {
+   font-size: 23px;
+   font-weight: 700;
+   margin-bottom: 12px;
+   color: var(--hard-layer);
+}
+
+.card .info-container p {
+   font-size: 15px;
+   font-weight: 400;
+   line-height: 1.5;
+   letter-spacing: 0.01em;
+   color: var(--mediun-layer);
+}
+
+.attribution { 
+   font-size: 11px; 
+   text-align: center; 
+   margin-bottom: 10px;
+}
+.attribution a { 
+   color: hsl(228, 45%, 44%); 
+}
