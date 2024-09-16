@@ -15,7 +15,7 @@ Os desafios geralmente incluem um design de interface pré-definido (em formatos
 ## Sobre o desafio
 
 Neste desafio, foi proposta a criação de um cartão com QR Code simples, utilizando apenas HTML e CSS. A plataforma fornece informações relevantes para a conclusão do desafio, como fontes, paleta de cores, imagens utilizadas no projeto e um arquivo JPG com o layout sugerido.
-Aqui está a prévia do layout final do desafio: <br> <br>
+Aqui está a prévia do layout final do desafio: 
 <div align="center" style="display: inline_block";>
   <img align="center" src="./preview.jpg" alt="Imagem do card QR-Code" style="width: 400px; height: 300px;">
 </div>
@@ -24,8 +24,8 @@ Aqui está a prévia do layout final do desafio: <br> <br>
 
 Na resolução desse desafio foi usado HTML5 e CSS. Para estilizar o projeto, foi utilizado display flex que é justamente o que estou aprendendo na atualidade.<br>
 Fiz o upload da minha versão do projeto para o Github Pages e pode ser visto no link abaixo:
-<div>
+<div align="center">
   <a href="https://ederprocopio.github.io/frontend-mentor-qr-code-component/">
-    <img align="center" src="./captura-de-tela.png" alt="Imagem da pagina de conclusão" style="width: 400px; height: 300px;">
+    <img align="center" src="./captura-de-tela.png" alt="Imagem da pagina de conclusão" style="width: 250px;">
   </a>
 </div>
